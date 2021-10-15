@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitneyafoster
 - 👀 I’m interested in web design and software development.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on HTML, CSS, and Javascript projects.
 - 📫 How to reach me foster.whitney.a@gmail.com
 
