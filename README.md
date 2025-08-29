@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitneyafoster
-- 👀 I’m interested in machine learnign and artificial intelligent.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in machine learnign and artificial intelligence.
+- 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on HTML, CSS, and Javascript projects.
 - 📫 How to reach me foster.whitney.a@gmail.com
 
